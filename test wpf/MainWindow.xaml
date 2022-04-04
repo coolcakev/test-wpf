@@ -17,6 +17,9 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Height="54" Margin="400,99,0,0" VerticalAlignment="Top" Width="47"/>
+        <Grid HorizontalAlignment="Left" Height="48" Margin="400,169,0,0" VerticalAlignment="Top" Width="24"/>
+        <TextBox Text="TextBox" TextWrapping="Wrap" Width="120" Margin="232,10,448,-10"/>
 
     </Grid>
 </Window>
